@@ -19,5 +19,4 @@ int main(){
             status = 1;
         }
     }
-
 }
